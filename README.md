@@ -48,7 +48,7 @@ This project demonstrates the use of Power BI in creating **dynamic dashboards**
 ## 🧠 Author
 
 **Yash Taneja**  
-[LinkedIn]([https://www.linkedin.com/in/yash-taneja-07/)])
+[LinkedIn](https://www.linkedin.com/in/yash-taneja-07/)
 
 ---
 
